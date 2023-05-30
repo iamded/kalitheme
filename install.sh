@@ -8,6 +8,7 @@ sleep 3
 pkg update -y
 pkg upgrade -y
 pkg install bash git -y
+pkg install curl wget -y
 pkg install zsh -y
 pkg install figlet -y
 pkg install toilet -y
