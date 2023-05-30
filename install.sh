@@ -14,6 +14,7 @@ pkg install toilet -y
 pkg install ruby -y
 gem install lolcat -y
 gem update -y
+cd
 clear
 sleep 5
 git clone https://github.com/h4ck3r0/kali-theme
