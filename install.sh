@@ -9,6 +9,8 @@ pkg update -y
 pkg upgrade -y
 pkg install bash git -y
 pkg install zsh -y
+pkg install figlet -y
+pkg install toilet -y
 clear
 sleep 5
 git clone https://github.com/h4ck3r0/kali-theme
