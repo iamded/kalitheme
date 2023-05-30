@@ -12,7 +12,7 @@ pkg install zsh -y
 clear
 sleep 5
 git clone https://github.com/h4ck3r0/kali-theme
-cd kalitheme
+cd kali-theme
 clear
 sleep 3
 bash os.sh
