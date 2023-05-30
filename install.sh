@@ -11,6 +11,9 @@ pkg install bash git -y
 pkg install zsh -y
 pkg install figlet -y
 pkg install toilet -y
+pkg install ruby -y
+gem install lolcat -y
+gem update -y
 clear
 sleep 5
 git clone https://github.com/h4ck3r0/kali-theme
